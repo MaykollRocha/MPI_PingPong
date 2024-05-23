@@ -121,5 +121,5 @@
         "agregamento": """Foi realmente um trabalho muito tranquilo, não demorei mais de uma semana, gostei de cada segundo programando este, alem
         de que meu colega de sala fazia outra matéria com o mesmo onde tinha a mesma ideia de projeto só que era com o send e recive bloquenate.""",
         "Link": "https://github.com/MaykollRocha/MPI_PingPong/tree/main",
-    },
+    }
     
